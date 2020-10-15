@@ -3,7 +3,7 @@ baseurl: /auber-website/
 
 # Site settings
 title: Auber - Find the infiltrators
-email: your-email@domain.com
+# email: your-email@domain.com
 description: "Auber is a fun game where you are the constable onboard Deep Space Y and have to find the infiltrators who are trying to sabotage the ship!"
 
 
