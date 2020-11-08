@@ -10,7 +10,7 @@ description: "Auber is a fun game where you are the constable onboard Deep Space
 # Team names, titles and social links
 people:
 - name: George Burke
-  pic: Avatar Image - George
+  pic: George
   social:
     - title: envelope
       url: gb1061@york.ac.uk
@@ -18,7 +18,7 @@ people:
       url: https://github.com/gigabytegoob
       
 - name: Adam Gurdikyan
-  pic: 1
+  pic: 2
   social:
     - title: envelope
       url: ag1737@york.ac.uk
@@ -26,7 +26,7 @@ people:
       url: https://github.com/ag1737
       
 - name: Ethan Higgins
-  pic: 4
+  pic: Ethan
   social:
     - title: envelope
       url: eh1499@york.ac.uk
@@ -34,7 +34,7 @@ people:
       url: https://github.com/EHigggins
       
 - name: Clara Hohenlohe
-  pic: 1
+  pic: Clara
   social:
     - title: envelope
       url: cmh592@york.ac.uk
@@ -50,7 +50,7 @@ people:
       url: https://github.com/lakhanmankani
 
 - name: David Thomson
-  pic: 5
+  pic: David
   social:
     - title: envelope
       url: dgt510@york.ac.uk
