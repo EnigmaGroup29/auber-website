@@ -1,15 +1,15 @@
 ---
-title: Gameplay Image 6
+title: Heal
 subtitle: Stay alive
 layout: default
 modal-id: 6
 # date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+img: Heal.png
+thumbnail: Heal.png
 alt: image-alt
 # project-date: April 2014
 # client: Start Bootstrap
 # category: Web Development
-description: Stay alive.
+description: Stay alive
 
 ---
