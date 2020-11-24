@@ -28,7 +28,7 @@ layout: page
 ## Week 5
 * Map continued to be created by Ethan and George
 * Assets for game continued be created by Clara and Ethan
-* Game continuing to be programmed on by David, Lakhan, Ethan
+* Game continuing to be programmed on by David, Lakhan and Ethan
 
 ## Week 6
 * Justify architecture section completed by Adam
