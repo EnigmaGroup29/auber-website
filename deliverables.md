@@ -12,13 +12,13 @@ layout: page
 # New deliverables
 
 ## Updated versions
-* [Requirements]
-* [Architecture]
-* [Method selection and planning]
-* [Risk assessment and mitigation]
+* [Requirements]()
+* [Architecture]()
+* [Method selection and planning]()
+* [Risk assessment and mitigation]()
 
 ## Assessment 2 deliverables
-* [Change report]
-* [Implementation]
-* [Testing]
-* [Continuous integration]
+* [Change report]()
+* [Implementation]()
+* [Testing]()
+* [Continuous integration]()
