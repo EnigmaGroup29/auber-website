@@ -18,7 +18,7 @@ layout: page
 * [Risk assessment and mitigation]()
 
 #### Assessment 2 deliverables
-* [Change report]()
+* [Change Report]()
 * [Implementation]()
-* [Testing]()
-* [Continuous integration]()
+* [Software Testing Report]()
+* [Continuous Integration Report]()
