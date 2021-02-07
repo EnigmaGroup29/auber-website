@@ -23,4 +23,4 @@ Images are in '/img/team/'
 
 
 # Website
-The website can be accessed at [ehigggins.github.io/auber-website](https://ehigggins.github.io/auber-website)
+The website can be accessed at [enigmagroup29.github.io/auber-website](https://enigmagroup29.github.io/auber-website/)
