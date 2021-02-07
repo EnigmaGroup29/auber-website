@@ -25,4 +25,4 @@ layout: page
 
 * Tests Case 19
 
-  ![](../img/evidence/aesthetics.png =700x "Auber")
+  ![](../img/evidence/aesthetics.png =700x)
