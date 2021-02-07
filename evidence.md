@@ -26,3 +26,6 @@ layout: page
 * Tests Case 19
 
 <img src="../img/evidence/aesthetics.png" width="700">
+
+#### Automated testing
+Automated tests have been designed with the help of material available [here](https://github.com/TomGrill/gdx-testing).
