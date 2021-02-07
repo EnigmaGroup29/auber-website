@@ -25,4 +25,4 @@ layout: page
 
 * Tests Case 19
 
-  <img src="../img/evidence/aesthetics.png" width="700">
+<img src="../img/evidence/aesthetics.png" width="700">
