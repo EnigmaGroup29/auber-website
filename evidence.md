@@ -7,7 +7,7 @@ layout: page
 
 * Test Case 16
   
-<video width="700" padding="20" controls>
+<video width="700" controls>
   <source src="../img/evidence/rooms.mp4" type="video/mp4">
 </video>
 
