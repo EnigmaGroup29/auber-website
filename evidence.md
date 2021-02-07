@@ -33,5 +33,5 @@ layout: page
 #### Automated testing
 Automated tests have been designed with the help of material available <a href="https://github.com/TomGrill/gdx-testing" target="_blank">here</a>.
 
-*JUnit test results can be found <a href="../tests.html" target="_blank">here</a>.
+* JUnit test results can be found <a href="../tests.html" target="_blank">here</a>.
 
