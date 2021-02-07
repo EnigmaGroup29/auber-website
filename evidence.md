@@ -25,4 +25,4 @@ layout: page
 
 * Tests Case 19
 
-  ![](../img/evidence/aesthetics.png =700x)
+  <img src="../img/evidence/aesthetics.png" width="700">
