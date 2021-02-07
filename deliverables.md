@@ -16,7 +16,7 @@ layout: page
 * [Requirements](../deliverables/Req2.pdf){:target="_blank"}
 * [Architecture]()
 * [Method selection and planning]()
-* [Risk assessment and mitigation](../deliverables/Risks2.pdf){:target="_blank"}
+* [Risk assessment and mitigation](../deliverables/Risk2.pdf){:target="_blank"}
 
 #### Assessment 2 deliverables
 * [Change Report]()
