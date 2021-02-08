@@ -14,12 +14,12 @@ layout: page
 
 #### Updated versions
 * [Requirements](../deliverables/Req2.pdf){:target="_blank"}
-* [Architecture]()
-* [Method selection and planning]()
+* [Architecture](../deliverables/Arch2.pdf){:target="_blank"}
+* [Method selection and planning](../deliverables/Plan2.pdf){:target="_blank"}
 * [Risk assessment and mitigation](../deliverables/Risk2.pdf){:target="_blank"}
 
 #### Assessment 2 deliverables
-* [Change Report]()
-* [Implementation]()
-* [Software Testing Report]()
-* [Continuous Integration Report]()
+* [Change Report](../deliverables/Change22.pdf){:target="_blank"}
+* [Implementation](../deliverables/Impl2.pdf){:target="_blank"}
+* [Software Testing Report](../deliverables/Test2.pdf){:target="_blank"}
+* [Continuous Integration Report](../deliverables/CI2.pdf){:target="_blank"}
