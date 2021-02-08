@@ -22,4 +22,4 @@ layout: page
 * [Change Report](../deliverables/Change2.pdf){:target="_blank"}
 * [Implementation](../deliverables/Impl2.pdf){:target="_blank"}
 * [Software Testing Report](../deliverables/Test2.pdf){:target="_blank"}
-* [Continuous Integration Report](../deliverables/CI2.pdf){:target="_blank"}
+* [Continuous Integration Report](../deliverables/Ci2.pdf){:target="_blank"}
